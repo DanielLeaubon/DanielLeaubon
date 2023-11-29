@@ -1,4 +1,4 @@
-Treina Prog web
+Estudo programação para back e front end
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielLeaubon&show_icons=true&theme=dracula&count_private=true)
 
