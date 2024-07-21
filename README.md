@@ -11,7 +11,9 @@ Estudo programação para back e front end
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   
   <br/>
+  <br/>
   
-  REDES SOCIAIS: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel_leaubon/)
+  REDES SOCIAIS: <br/>
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel_leaubon/)
 
 </div><br/>
