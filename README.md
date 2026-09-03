@@ -32,6 +32,13 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </div>
 
-![GitHub Profile 3D](https://githubusercontent.com)
+<div align="center">
+  <h3>🐍 Minha atividade no GitHub</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielLeaubon/DanielLeaubon/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielLeaubon/DanielLeaubon/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanielLeaubon/DanielLeaubon/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>![GitHub Profile 3D](https://githubusercontent.com)
 
 
