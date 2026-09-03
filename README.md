@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Olá, eu sou o Daniel Leaubon</h1>
+  <h1>👋 Olá, eu sou o Daniel Leaubon Carvalho de Souza</h1>
   <p><b>Estudante de Ciência da Computação pela UENF</b> | Focado em Desenvolvimento Full Stack</p>
   
   <p>
@@ -31,7 +31,5 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </div>
-
-![GitHub Profile 3D](https://githubusercontent.com)
 
 
