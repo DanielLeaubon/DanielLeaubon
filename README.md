@@ -32,12 +32,6 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </div>
 
----
 
-### 📊 Estatísticas no GitHub
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DanielLeaubon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLeaubon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-](https://github.com/DanielLeaubon)
+
