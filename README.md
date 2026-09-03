@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <h1>👋 Olá, eu sou o Daniel Leaubon</h1>
   <p><b>Estudante de Ciência da Computação pela UENF</b> | Focado em Desenvolvimento Full Stack</p>
   
@@ -40,3 +40,4 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=DanielLeaubon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLeaubon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
+](https://github.com/DanielLeaubon)
