@@ -1,4 +1,4 @@
-Estudo programação para back e front end
+Sou estudante de Ciência da computação pela UENF, estou estudando princípios da programação com foca em desenvolvimento full stack.
 
 
 ## Tecnologias que eu uso no meu dia
