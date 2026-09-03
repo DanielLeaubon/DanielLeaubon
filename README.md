@@ -1,5 +1,6 @@
 <div align="center">
   <h1>👋 Olá, eu sou o Daniel Leaubon Carvalho de Souza</h1>
+  <img src="https://media.giphy.com/media/12wzS1jElBDz2/giphy.gif" width="300" alt="Personagem de anime sorrindo">
   <p><b>Estudante de Ciência da Computação pela UENF</b> | Focado em Desenvolvimento Full Stack</p>
   
   <p>
