@@ -20,6 +20,16 @@
 
 ---
 
+### 👨‍💻 Sobre mim
+
+Sou estudante de Ciência da Computação pela UENF e tenho interesse em transformar ideias em aplicações funcionais, bem estruturadas e fáceis de usar. Meu foco está no desenvolvimento Full Stack, unindo a criação de interfaces com a construção de APIs e a integração com bancos de dados.
+
+No meu aprendizado, venho explorando tecnologias como HTML, CSS, JavaScript, Node.js, Express.js, MongoDB e C. Gosto de entender como cada parte de uma aplicação se conecta e de evoluir continuamente por meio da prática, de novos projetos e da resolução de problemas.
+
+Estou construindo minha trajetória na área de tecnologia com curiosidade, dedicação e vontade de participar de projetos que gerem impacto real.
+
+---
+
 ### 💻 Tecnologias e Ferramentas
 
 <div align="center">
